@@ -9,5 +9,5 @@ Each folder corresponds to one of the courses and in each folder you can find a 
   1. Applied Text Mining in Python
   1. Applied Social Network Analysis in Python
 
-**By:** Sebastián Montagna.<br>
+**Assignments By:** Sebastián Montagna.<br>
 04/2020 - 05/2020
